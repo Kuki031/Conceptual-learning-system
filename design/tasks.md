@@ -15,5 +15,5 @@
   </li>
 </ol>
 
-- [ ] Color Pallete
-- [ X ] Color Pallete
+- [X] Color Pallete
+
