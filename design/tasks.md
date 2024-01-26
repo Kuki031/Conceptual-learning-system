@@ -15,4 +15,5 @@
   </li>
 </ol>
 
-<input type='checkbox' value='Color Pallete'/>
+- [ ] Color Pallete
+- [ X ] Color Pallete
