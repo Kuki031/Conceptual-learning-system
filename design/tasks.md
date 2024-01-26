@@ -1,19 +1,18 @@
 <h2>Tasks for Design</h2>
 <ol>
   <li>
-    Color Pallete
-    
+    - [X] Color Pallete
   </li>
   <li>
-    Typography
+    - [ ] Typography
   </li>
   <li>
-    Logo
+    - [ ] Logo
   </li>
   <li>
-    Templates
+    - [ ] Templates
   </li>
 </ol>
 
-- [X] Color Pallete
+
 
