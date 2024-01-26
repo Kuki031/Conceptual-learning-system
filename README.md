@@ -2,7 +2,7 @@
 Conceptual learning system using MERN stack
 <h2>Design</h2>
   <ul>
-    <li>Define color palletes</li>
+    <li>Define color palletes ✔️</li>
     <li>Typography</li>
     <li>Logo</li>
     <li>Primary components</li>
