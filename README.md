@@ -11,6 +11,8 @@ Conceptual learning system using MERN stack
     <li>App design</li>
   </ul>
 
+<hr />
+
 <h2>Frontend</h2>
   <ul>
     <li>Finalization of UI design</li>
