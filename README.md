@@ -2,6 +2,7 @@
 Conceptual learning system using MERN stack
 <h2>Backend</h2>
 <ul>
+  <li><s>Init project</s></li>
   <li>Database model</li>
   <li>Authentification</li>
   <li>Authorization</li>
